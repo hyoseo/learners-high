@@ -1,5 +1,3 @@
-import java.util.Collections;
-
 public class LeetCode557 {
     public static void main(String[] args) {
         // Arrays and Strings

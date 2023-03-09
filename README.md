@@ -16,5 +16,7 @@
 ### Prefix
  > [[Problem]](https://leetcode.com/problems/number-of-ways-to-split-array/)[Medium] [2270. Number of Ways to Split Array](https://github.com/hyoseo/learners-high/blob/main/LeetCode2270.java)
 ## Linked lists
+### Fast and slow pointers
+ > [[Problem]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)[Medium] [19. Remove Nth Node From End of List](https://github.com/hyoseo/learners-high/blob/main/LeetCode19.java)
 ### Reversing a linked list
  > [[Problem]](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)[Medium] [2130. Maximum Twin Sum of a Linked List](https://github.com/hyoseo/learners-high/blob/main/LeetCode2130.java)

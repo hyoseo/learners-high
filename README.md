@@ -15,3 +15,6 @@
  > [[Problem]](https://leetcode.com/problems/reverse-words-in-a-string-iii/)[Easy] [557. Reverse Words in a String III](https://github.com/hyoseo/learners-high/blob/main/LeetCode557.java)
 ### Prefix
  > [[Problem]](https://leetcode.com/problems/number-of-ways-to-split-array/)[Medium] [2270. Number of Ways to Split Array](https://github.com/hyoseo/learners-high/blob/main/LeetCode2270.java)
+## Linked lists
+### Reversing a linked list
+ > [[Problem]](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)[Medium] [2130. Maximum Twin Sum of a Linked List](https://github.com/hyoseo/learners-high/blob/main/LeetCode2130.java)

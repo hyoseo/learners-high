@@ -20,3 +20,5 @@
  > [[Problem]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)[Medium] [19. Remove Nth Node From End of List](https://github.com/hyoseo/learners-high/blob/main/LeetCode19.java)
 ### Reversing a linked list
  > [[Problem]](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)[Medium] [2130. Maximum Twin Sum of a Linked List](https://github.com/hyoseo/learners-high/blob/main/LeetCode2130.java)
+ ### General
+ > [[Problem]](https://leetcode.com/problems/odd-even-linked-list/)[Medium] [328. Odd Even Linked List](https://github.com/hyoseo/learners-high/blob/main/LeetCode328.java)

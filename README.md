@@ -22,8 +22,9 @@
  > [[Problem]](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)[Medium] [2130. Maximum Twin Sum of a Linked List](https://github.com/hyoseo/learners-high/blob/main/LeetCode2130.java)
  ### General
  > [[Problem]](https://leetcode.com/problems/odd-even-linked-list/)[Medium] [328. Odd Even Linked List](https://github.com/hyoseo/learners-high/blob/main/LeetCode328.java)
-## stacks and queues
+## Stacks and queues
 ### Stacks
 > [[Problem]](https://leetcode.com/problems/removing-stars-from-a-string/)[Medium] [2390. Removing Stars From a String](https://github.com/hyoseo/learners-high/blob/main/LeetCode2390.java)  
  > [[Problem]](https://leetcode.com/problems/validate-stack-sequences/)[Medium] [946. Validate Stack Sequences](https://github.com/hyoseo/learners-high/blob/main/LeetCode946.java)
- 
+ ### Queues
+ > [[Problem]](https://leetcode.com/problems/dota2-senate/)[Medium] [649. Dota2 Senate](https://github.com/hyoseo/learners-high/blob/main/LeetCode649.java)

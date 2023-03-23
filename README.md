@@ -31,3 +31,9 @@
 ### Monotonic
 > [[Problem]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)[Easy] [1475. Final Prices With a Special Discount in a Shop](https://github.com/hyoseo/learners-high/blob/main/LeetCode1475.java)  
 > [[Problem]](https://leetcode.com/problems/find-the-most-competitive-subsequence/)[Medium] [1673. Find the Most Competitive Subsequence](https://github.com/hyoseo/learners-high/blob/main/LeetCode1673.java)
+## Trees and graphs
+### Binary trees
+> [[Problem]](https://leetcode.com/problems/same-tree/)[Easy] [100. Same Tree](https://github.com/hyoseo/learners-high/blob/main/LeetCode100.java)  
+> [[Problem]](https://leetcode.com/problems/leaf-similar-trees/)[Easy] [872. Leaf-Similar Trees](https://github.com/hyoseo/learners-high/blob/main/LeetCode872.java)  
+> [[Problem]](https://leetcode.com/problems/invert-binary-tree/)[Easy] [226. Invert Binary Tree](https://github.com/hyoseo/learners-high/blob/main/LeetCode226.java)  
+> [[Problem]](https://leetcode.com/problems/symmetric-tree/)[Easy] [101. Symmetric Tree](https://github.com/hyoseo/learners-high/blob/main/LeetCode101.java)

@@ -37,3 +37,6 @@
 > [[Problem]](https://leetcode.com/problems/leaf-similar-trees/)[Easy] [872. Leaf-Similar Trees](https://github.com/hyoseo/learners-high/blob/main/LeetCode872.java)  
 > [[Problem]](https://leetcode.com/problems/invert-binary-tree/)[Easy] [226. Invert Binary Tree](https://github.com/hyoseo/learners-high/blob/main/LeetCode226.java)  
 > [[Problem]](https://leetcode.com/problems/symmetric-tree/)[Easy] [101. Symmetric Tree](https://github.com/hyoseo/learners-high/blob/main/LeetCode101.java)
+### Binary trees: BFS
+> [[Problem]](https://leetcode.com/problems/binary-tree-level-order-traversal/)[Medium] [102. 102. Binary Tree Level Order Traversal](https://github.com/hyoseo/learners-high/blob/main/LeetCode102.java)  
+> [[Problem]](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)[Medium] [1161. Maximum Level Sum of a Binary Tree](https://github.com/hyoseo/learners-high/blob/main/LeetCode1161.java)

@@ -38,6 +38,8 @@ public class LeetCode1496 {
             visited.add(pos);
         }
         result = false;
+
+        System.out.println(result);
     }
 }
 

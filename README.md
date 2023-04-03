@@ -43,3 +43,5 @@
 ### Binary search trees
 > [[Problem]](https://leetcode.com/problems/search-in-a-binary-search-tree/)[Easy] [700. Search in a Binary Search Tree](https://github.com/hyoseo/learners-high/blob/main/LeetCode700.java)  
 > [[Problem]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)[Medium] [1305. All Elements in Two Binary Search Trees](https://github.com/hyoseo/learners-high/blob/main/LeetCode1305.java)
+### Graphs
+> [[Problem]](https://leetcode.com/problems/find-the-town-judge/)[Easy] [997. Find the Town Judge](https://github.com/hyoseo/learners-high/blob/main/LeetCode997.java)  

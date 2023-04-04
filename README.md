@@ -45,3 +45,4 @@
 > [[Problem]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)[Medium] [1305. All Elements in Two Binary Search Trees](https://github.com/hyoseo/learners-high/blob/main/LeetCode1305.java)
 ### Graphs
 > [[Problem]](https://leetcode.com/problems/find-the-town-judge/)[Easy] [997. Find the Town Judge](https://github.com/hyoseo/learners-high/blob/main/LeetCode997.java)  
+> [[Problem]](https://leetcode.com/problems/maximal-network-rank/)[Medium] [1615. Maximal Network Rank](https://github.com/hyoseo/learners-high/blob/main/LeetCode1615.java)  

@@ -46,3 +46,5 @@
 ### Graphs
 > [[Problem]](https://leetcode.com/problems/find-the-town-judge/)[Easy] [997. Find the Town Judge](https://github.com/hyoseo/learners-high/blob/main/LeetCode997.java)  
 > [[Problem]](https://leetcode.com/problems/maximal-network-rank/)[Medium] [1615. Maximal Network Rank](https://github.com/hyoseo/learners-high/blob/main/LeetCode1615.java)  
+> [[Problem]](https://leetcode.com/problems/island-perimeter/)[Easy] [463. Island Perimeter](https://github.com/hyoseo/learners-high/blob/main/LeetCode463.java)  
+> [[Problem]](https://leetcode.com/problems/number-of-enclaves/)[Medium] [1020. Number of Enclaves](https://github.com/hyoseo/learners-high/blob/main/LeetCode1020.java)  
